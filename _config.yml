@@ -2,7 +2,7 @@
 title: '李沛恒的博客'
 description: '天下大事必做于细，天下难事必做于易'
 keyword: '算法与数据结构，linux'
-url: '' # your host
+url: 'https://github.com/IAMjmj' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
@@ -52,7 +52,7 @@ sns:
   weibo: '//weibo.com/lovecolcol'
   juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
   instagram: '//www.instagram.com/steveliaocn'
-  github: '//github.com/kaeyleo'
+  github: '//github.com/IAMjmj'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar

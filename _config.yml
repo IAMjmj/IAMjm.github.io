@@ -1,5 +1,5 @@
 # Site settings 配置站点
-title: '李沛恒的博客'
+title: 'I AM的博客'
 description: '天下大事必做于细，天下难事必做于易'
 keyword: '算法与数据结构，linux'
 url: 'https://github.com/IAMjmj' # your host
@@ -20,7 +20,7 @@ footer:
 author: '李沛恒'
 nickname: 'IAM'
 bio: '学生'
-avatar: 'arrets/img/111.png'
+avatar: 'arrets/img/hero.jpg'
 
 # Search
 search: true

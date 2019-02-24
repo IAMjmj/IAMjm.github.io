@@ -45,7 +45,7 @@ eg:对于字符串abab
 
 ## code
 
- ```c++
+ ```cpp
 #include <bits/stdc++.h>
 using namespace std;
 #define r(x) x=read()
